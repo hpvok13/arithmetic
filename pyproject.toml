@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "arithmetic_valmiki"
+version = "0.0.1"
+authors = [
+  { name="Valmiki Kothare", email="valmiki.kothare.vk@gmail.com" },
+]
+description = "This the definitive arithmetic package"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/hpvok13/arithmetic_valmiki"
+Issues = "https://github.com/hpvok13/arithmetic_valmiki/issues"
