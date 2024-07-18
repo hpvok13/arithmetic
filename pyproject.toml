@@ -8,7 +8,7 @@ version = "0.0.1"
 authors = [
     {name="Valmiki Kothare", email="valmiki.kothare.vk@gmail.com"},
 ]
-description = "This the definitive arithmetic package"
+description = "This is the definitive arithmetic package"
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
