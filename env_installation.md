@@ -13,9 +13,9 @@ conda init
 conda create --name arithmetic_env python=3.10 pip
 conda activate arithmetic_env
 
-pip install numpy 
+pip install -r requirements.txt
 # or
-conda install numpy
+conda install -f requirements.txt
 ```
 ## Venv
 ```

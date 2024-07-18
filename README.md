@@ -3,12 +3,17 @@ This the definitive arithmetic package.
 
 ## Installation
 ```
-pip install [-e] arithemtic # -e optional for editable mode
+pip install arithemtic-valmiki
+```
+or
+```
+git clone https://github.com/hpvok13/arithmetic_valmiki
+pip install -e . # within the project directory
 ```
 
 ## Usage
 ```
-from arithmetic import Arithmetic
+from arithmetic_valmiki import Arithmetic
 
 ari = Arirthmetic()
 a = np.array([1, 2, 3])
